@@ -2,7 +2,7 @@
 
 Un script de Python interactivo para calcular y visualizar el factorial de un número entero positivo mostrando el desglose matemático de la cuenta atrás de forma limpia en la consola.
 
-A diferencia de los cálculos tradicionales que van hacia adelante, este script construye visualmente la operación marcha atrás, emulando cómo resolveríamos el factorial con papel y lápiz.
+A diferencia de los cálculos actuales que van hacia adelante, este script construye visualmente la operación marcha atrás, emulando cómo resolveríamos el factorial con papel y lápiz.
 
 ## Funcionamiento:
 
