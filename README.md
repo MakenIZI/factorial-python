@@ -14,4 +14,4 @@ Dime de qué número quieres el factorial: 5
 
 
 
-							Att: BPM.
+							Att: MakenIZI.
