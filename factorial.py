@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ## Pedir un número y calcular su factorial.
 
 numero = int(input("Dime de qué número quieres el factorial: "))
